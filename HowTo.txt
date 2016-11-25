@@ -1,0 +1,10 @@
+HowTo
+=====
+
+Kompilierung des Quellcodes: 
+> javac BasicGeometry.java
+
+Ausführen der Java-Klasse:
+> java BasicGeometry
+
+
